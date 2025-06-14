@@ -50,3 +50,4 @@ if submit:
     else:
         st.success("Pasien tidak berisiko terkena penyakit jantung.")
 
+
